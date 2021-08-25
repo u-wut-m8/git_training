@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-I don't like eating juice.
+I like eating pasta.
+I have a pet platypus named Perry.
+I like Perry.
